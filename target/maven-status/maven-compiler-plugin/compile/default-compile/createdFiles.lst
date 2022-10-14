@@ -1,0 +1,8 @@
+application\Main.class
+util\Utils.class
+application\NewMain.class
+gui\MainViewController.class
+util\Alerts.class
+util\Constraints.class
+gui\auxiliar\ManipulateNode.class
+gui\InterpolacaoController.class
